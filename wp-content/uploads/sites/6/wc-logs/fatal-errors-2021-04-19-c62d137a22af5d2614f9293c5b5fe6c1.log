@@ -1,0 +1,2 @@
+2021-04-19T14:38:09+00:00 CRITICAL Out of memory (allocated 69206016) (tried to allocate 4096 bytes) en /var/www/html/Jac-motors/wp-content/plugins/wordpress-seo/admin/class-admin-asset-manager.php en la línea 410
+

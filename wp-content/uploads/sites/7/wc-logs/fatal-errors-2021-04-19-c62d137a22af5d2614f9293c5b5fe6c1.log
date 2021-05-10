@@ -1,0 +1,2 @@
+2021-04-19T14:48:48+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 135168 bytes) en /var/www/html/Jac-motors/wp-includes/pomo/streams.php en la línea 118
+

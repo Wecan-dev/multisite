@@ -1,0 +1,6 @@
+2021-04-23T15:01:03+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 299008 bytes) in /var/www/html/Jac-motors/wp-includes/pomo/streams.php on line 215
+
+2021-04-23T15:01:04+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 32768 bytes) en /var/www/html/Jac-motors/wp-content/themes/Moraraci/theme-functions-override.php en la línea 2859
+
+2021-04-23T15:03:15+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 20480 bytes) en /var/www/html/Jac-motors/wp-includes/functions.php en la línea 624
+

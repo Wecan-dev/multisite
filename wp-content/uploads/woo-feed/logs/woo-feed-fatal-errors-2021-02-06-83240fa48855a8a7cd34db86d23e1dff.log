@@ -1,0 +1,48 @@
+2021-02-06T06:23:21+00:00 CRITICAL Uncaught Error: Call to a member function get_applied_coupons() on null in /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php:275
+Stack trace:
+#0 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(287): gtm4wp_woocommerce_datalayer_filter_items(Array)
+#1 /home/jacmotor/public_html/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/public/frontend.php(822): apply_filters('gtm4wp_compile_...', Array)
+#3 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(285): gtm4wp_wp_header_begin()
+#4 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/jacmotor/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/jacmotor/public_html/wp-includes/general-template.php(3005): do_action('wp_head')
+#7 /home/jacmotor/public_html/wp-content/themes/kallyas/header.php(12): wp_head()
+#8 /home/jacmo in /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php on line 275
+
+2021-02-06T06:23:27+00:00 CRITICAL Uncaught Error: Call to a member function get_applied_coupons() on null in /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php:275
+Stack trace:
+#0 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(287): gtm4wp_woocommerce_datalayer_filter_items(Array)
+#1 /home/jacmotor/public_html/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/public/frontend.php(822): apply_filters('gtm4wp_compile_...', Array)
+#3 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(285): gtm4wp_wp_header_begin()
+#4 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/jacmotor/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/jacmotor/public_html/wp-includes/general-template.php(3005): do_action('wp_head')
+#7 /home/jacmotor/public_html/wp-content/themes/kallyas/header.php(12): wp_head()
+#8 /home/jacmo in /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php on line 275
+
+2021-02-06T06:23:40+00:00 CRITICAL Uncaught Error: Call to a member function get_applied_coupons() on null in /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php:275
+Stack trace:
+#0 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(287): gtm4wp_woocommerce_datalayer_filter_items(Array)
+#1 /home/jacmotor/public_html/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/public/frontend.php(822): apply_filters('gtm4wp_compile_...', Array)
+#3 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(285): gtm4wp_wp_header_begin()
+#4 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/jacmotor/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/jacmotor/public_html/wp-includes/general-template.php(3005): do_action('wp_head')
+#7 /home/jacmotor/public_html/wp-content/themes/kallyas/header.php(12): wp_head()
+#8 /home/jacmo in /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php on line 275
+
+2021-02-06T06:23:46+00:00 CRITICAL Uncaught Error: Call to a member function get_applied_coupons() on null in /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php:275
+Stack trace:
+#0 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(287): gtm4wp_woocommerce_datalayer_filter_items(Array)
+#1 /home/jacmotor/public_html/wp-includes/plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/public/frontend.php(822): apply_filters('gtm4wp_compile_...', Array)
+#3 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(285): gtm4wp_wp_header_begin()
+#4 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#5 /home/jacmotor/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#6 /home/jacmotor/public_html/wp-includes/general-template.php(3005): do_action('wp_head')
+#7 /home/jacmotor/public_html/wp-content/themes/kallyas/header.php(12): wp_head()
+#8 /home/jacmo in /home/jacmotor/public_html/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php on line 275
+

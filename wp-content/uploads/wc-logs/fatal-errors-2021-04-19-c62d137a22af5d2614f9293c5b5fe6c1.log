@@ -1,0 +1,2 @@
+2021-04-19T14:35:48+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 2132094 bytes) en /var/www/html/Jac-motors/wp-content/plugins/wordfence/lib/wfConfig.php en la línea 659
+

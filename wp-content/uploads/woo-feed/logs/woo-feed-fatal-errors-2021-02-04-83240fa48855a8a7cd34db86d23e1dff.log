@@ -1,0 +1,11 @@
+2021-02-04T12:05:11+00:00 CRITICAL Uncaught Error: Class 'FacebookPixelPlugin\Core\FacebookServerSideEvent' not found in /home/jacmotor/public_html/wp-content/plugins/official-facebook-pixel/core/FacebookWordpressPixelInjection.php:50
+Stack trace:
+#0 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(287): FacebookPixelPlugin\Core\FacebookWordpressPixelInjection->sendPendingEvents('')
+#1 /home/jacmotor/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/jacmotor/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/jacmotor/public_html/wp-includes/general-template.php(3021): do_action('wp_footer')
+#4 /home/jacmotor/public_html/wp-content/themes/kallyas/footer.php(172): wp_footer()
+#5 /home/jacmotor/public_html/wp-includes/template.php(730): require_once('/home/jacmotor/...')
+#6 /home/jacmotor/public_html/wp-includes/template.php(676): load_template('/home/jacmotor/...', true, Array)
+#7 /home/jacmotor/public_html/wp-includes/general-template.php(92): locate_template(Array, tru in /home/jacmotor/public_html/wp-content/plugins/official-facebook-pixel/core/FacebookWordpressPixelInjection.php on line 50
+
